@@ -8,5 +8,5 @@
 
 #ifndef Adv660_version_h
 #define Adv660_version_h
-char * adv_version = "_START_TEXT_adv660";
+char * adv_version = "_START_HTML_adv660";
 #endif
